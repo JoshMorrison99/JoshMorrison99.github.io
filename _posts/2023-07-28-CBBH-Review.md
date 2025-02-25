@@ -1,7 +1,7 @@
 ---
 title: CBBH Review
 date: 2023-07-28 8:39:00 -5000
-categories: [Cyber_Security]
+categories: [Cyber Security]
 tags: [bug bounty, cyber_security]     # TAG names should always be lowercase
 ---
 
