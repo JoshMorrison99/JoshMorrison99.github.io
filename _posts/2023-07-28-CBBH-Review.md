@@ -11,7 +11,7 @@ The Bug Bounty Hunter Job Role Path is designed for individuals who want to ente
 
 With the necessary theoretical background, multiple practical exercises, and a proven bug bounty hunting methodology, students go through all stages of bug bounty hunting, from reconnaissance and bug identification to exploitation, documentation, and communication with vendors/programs. By completing this job role path, students will be proficient in common bug bounty hunting techniques and be prepared to report vulnerabilities professionally.  
 
-![CBBH](/assets/cbbh.png)  
+![CBBH](/assets/CBBH.png)  
 
 
 ## Course Modules  
