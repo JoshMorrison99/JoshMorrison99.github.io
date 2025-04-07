@@ -33,7 +33,7 @@ There are a few ways that a website can figure out the content type of a file:
 
 <br/>
 
-Our goal is RCE, so we want to add a payload that will allow use to execute some code.
+Our goal is RCE, so we want to add a payload that will allow us to execute some code.
 ```php
 <?php
 echo "shelled: ";
@@ -53,7 +53,7 @@ The magic byte for [GIF](https://en.wikipedia.org/wiki/List_of_file_signatures) 
 
 <br/>
 
-When we go to the URL however, we just get a white screen. This is because the file is still being interpreted as a GIF. It is now just a GIF with un-executable PHP code that results in just a white square. 
+When we go to the URL however, we only get a white screen. This is because the file is still being interpreted as a GIF. It is now just a GIF with un-executable PHP code that results in just a white square. 
 ![](/assets/hackinghub/remotebinge/5.png)
 
 <br/>
@@ -68,7 +68,7 @@ When we browse to the URL, we can see that the PHP code is indeed being executed
 
 <br/>
 
-To get RCE we can use the `?cmd=id` parameter from our PHP code to execute commands.
+To get RCE we can use the `?cmd=` parameter from our PHP code to execute commands.
 ![](/assets/hackinghub/remotebinge/8.png)
 
 <br/>
