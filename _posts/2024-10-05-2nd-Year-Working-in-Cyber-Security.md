@@ -1,3 +1,11 @@
+---
+title: 2'nd Year Working in Cyber Security
+date: 2024-10-05 8:16:00 -5000
+categories: [Cyber Security]
+tags: [cyber security]     # TAG names should always be lowercase
+---
+
+
 # Description
 
 It's now been 2 years of working in cyber security, and I’m writing this blog to reflect on what I’ve learned during my second year. If you haven’t already, check out my [1st-Year-Working-in-Cyber-Security](https://joshmorrison99.github.io/posts/1st-Year-Working-in-Cyber-Security/) to get some background on where I started and how things have evolved.
