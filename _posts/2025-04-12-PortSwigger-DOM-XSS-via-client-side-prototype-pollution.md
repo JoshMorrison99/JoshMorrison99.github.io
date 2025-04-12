@@ -2,7 +2,7 @@
 title: PortSwigger - DOM XSS via client-side prototype pollution
 date: 2025-04-12 18:48:00 -5000
 categories: [CTF]
-tags: [ctf, web, prototype_pollution]     # TAG names should always be lowercase
+tags: [ctf, web, prototype pollution]     # TAG names should always be lowercase
 ---
 
 This lab is vulnerable to DOM XSS via client-side prototype pollution. To solve the lab:
