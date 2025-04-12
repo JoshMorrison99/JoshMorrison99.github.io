@@ -1,8 +1,8 @@
 ---
 title: 2'nd Year Working in Cyber Security
 date: 2024-10-05 8:16:00 -5000
-categories: [Cyber Security]
-tags: [cyber security]     # TAG names should always be lowercase
+categories: [Career]
+tags: [career]     # TAG names should always be lowercase
 ---
 
 
