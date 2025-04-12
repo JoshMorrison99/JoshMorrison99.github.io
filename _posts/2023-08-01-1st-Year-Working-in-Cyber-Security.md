@@ -1,8 +1,8 @@
 ---
 title: 1'st Year Working in Cyber Security
 date: 2023-08-01 5:39:00 -5000
-categories: [Cyber Security]
-tags: [cyber security]     # TAG names should always be lowercase
+categories: [Career]
+tags: [career]     # TAG names should always be lowercase
 ---
 
 
