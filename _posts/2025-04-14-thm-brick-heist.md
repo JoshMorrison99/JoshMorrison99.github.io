@@ -1,6 +1,6 @@
 ---
 title: TryHackMe - Brick Heist
-date: 2025-04-014 17:21:00 -5000
+date: 2025-04-14 17:21:00 -5000
 categories: [CTF]
 tags: [ctf]     # TAG names should always be lowercase
 ---
