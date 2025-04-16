@@ -36,7 +36,7 @@ After logging in, we are given a JWT.
 
 <br/>
 
-I like to use [jtw.io](http://jtw.io) to view JWTs
+I like to use [jwt.io](https://jwt.io) to view JWTs
 
 ![](/assets/portswigger/jwt-authentication-bypass-via-unverified-signature/3.png)
 
