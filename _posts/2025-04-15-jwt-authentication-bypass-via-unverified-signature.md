@@ -1,6 +1,6 @@
 ---
 title: PortSwigger - JWT Authentication Bypass via Unverified Signature
-date: 2025-04-14 17:42:00 -5000
+date: 2025-04-15 18:20:00 -5000
 categories: [CTF]
 tags: [ctf, web, jwt]     # TAG names should always be lowercase
 ---
